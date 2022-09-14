@@ -1,0 +1,3 @@
+Cabbage 1 13
+Tomato 5 30
+Onion 5 31
